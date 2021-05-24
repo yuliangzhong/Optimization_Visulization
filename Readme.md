@@ -1,6 +1,12 @@
-### Assignment 1 
+# Assignment 1 of [CMM 2021](http://crl.ethz.ch/teaching/computational-motion-21/): Inverse Kinematics
 
-# Inverse Kinematics
+## How to play
+
+```
+cd build/src/app
+./linkage-app
+```
+
 
 For a more readable version of this document, see [Readme.pdf](Readme.pdf).
 

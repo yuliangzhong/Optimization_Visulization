@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgui.a CMakeFiles/gui.dir/application.cpp.o CMakeFiles/gui.dir/imgui_impl_glfw.cpp.o CMakeFiles/gui.dir/imgui_impl_opengl3.cpp.o CMakeFiles/gui.dir/shader.cpp.o
+/usr/bin/ranlib libgui.a

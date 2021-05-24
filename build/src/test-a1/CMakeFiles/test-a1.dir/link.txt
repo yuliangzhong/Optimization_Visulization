@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/test-a1.dir/test.cpp.o -o test-a1  ../kinematics/libkinematics.a ../optimization/liboptimization.a 
